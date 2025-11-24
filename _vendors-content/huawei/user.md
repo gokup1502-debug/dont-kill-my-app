@@ -1,4 +1,4 @@
----
+juegos---
 manufacturer:
     - huawei
 
